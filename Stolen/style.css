@@ -1,0 +1,121 @@
+nav{
+    margin-left: 92%;
+}
+.image1{
+    border: solid #000000;
+    border-radius: 20px;
+    margin: 15px;
+    padding: 20px;
+    background-color: #fff;
+  }
+  .image2{
+    border: solid #000000;
+    border-radius: 20px;
+    margin: 15px;
+    padding: 20px;
+    background-color: #fff;
+  }
+  .image3{
+    border: solid #000000;
+    border-radius: 20px;
+    margin: 15px;
+    padding: 20px;
+    background-color: #fff;
+  }
+  .image4{
+    border: solid #000000;
+    border-radius: 20px;
+    margin: 15px;
+    padding: 20px;
+    background-color: #fff;
+  }
+  .image5{
+    border: solid #000000;
+    border-radius: 20px;
+    margin: 15px;
+    padding: 20px;
+    background-color: #fff;
+  }
+  .image6{
+    border: solid #000000;
+    border-radius: 20px;
+    margin: 15px;
+    padding: 20px;
+    background-color: #fff;
+  }
+  .image7{
+    border: solid #000000;
+    border-radius: 20px;
+    margin: 15px;
+    padding: 20px;
+    background-color: #fff;
+  }
+  .image8{
+    border: solid #000000;
+    border-radius: 20px;
+    margin: 15px;
+    padding: 20px;
+    background-color: #fff;
+  }
+  .image9{
+    border: solid #000000;
+    border-radius: 20px;
+    margin: 15px;
+    padding: 20px;
+    background-color: #fff;
+  }
+  .image10{
+    border: solid #000000;
+    border-radius: 20px;
+    margin: 15px;
+    padding: 20px;
+    background-color: #fff;
+  }
+  .image11{
+    border: solid #000000;
+    border-radius: 20px;
+    margin: 15px;
+    padding: 20px;
+    background-color: #fff;
+  }
+  .image12{
+    border: solid #000000;
+    border-radius: 20px;
+    margin: 15px;
+    padding: 20px;
+    background-color: #fff;
+  }
+  .image13{
+    border: solid #000000;
+    border-radius: 20px;
+    margin: 15px;
+    padding: 20px;
+    background-color: #fff;
+  }
+
+/* Animation Wobble */
+.wobble-animation {
+    animation: item_Wobble 1.5s ease 0s 2 normal none;
+    transform-origin: 50% 50%;
+}
+
+@keyframes item_Wobble {
+    0%, 100% {
+        transform: translateX(0%);
+    }
+    15% {
+        transform: translateX(-30px) rotate(-6deg);
+    }
+    30% {
+        transform: translateX(15px) rotate(6deg);
+    }
+    45% {
+        transform: translateX(-15px) rotate(-3.6deg);
+    }
+    60% {
+        transform: translateX(9px) rotate(2.4deg);
+    }
+    75% {
+        transform: translateX(-6px) rotate(-1.2deg);
+    }
+}
